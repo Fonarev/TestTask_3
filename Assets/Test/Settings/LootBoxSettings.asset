@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42cf2c76497753948ba995b6ca83a15c, type: 3}
+  m_Name: LootBoxSettings
+  m_EditorClassIdentifier: Assembly-CSharp::Assets.Test.Scripts.Settings.LootBoxSettings
+  <SlotDisplayAmount>k__BackingField: 3
+  <SlotVerticalAmount>k__BackingField: 4
+  <DisplayHeight>k__BackingField: 400
+  <SlotSymbols>k__BackingField:
+  - {fileID: 1136654802884327302, guid: 2c40f6f7684389b4ba06626549cb43d4, type: 3}
+  - {fileID: 6766631126731841994, guid: e045749bbab982f45898a93d3eb71545, type: 3}
+  - {fileID: -4351809824804280515, guid: 0593e2d068f863448b9aa1dc0b0dd974, type: 3}
+  - {fileID: -5263398355532990538, guid: deabd61541878664aae80523489963fd, type: 3}
+  - {fileID: 3886443268029631212, guid: eac0b6f56cf069c429df2278703bb48e, type: 3}
+  <ScrollSpeed>k__BackingField: 10
+  <MaxScrollSpeed>k__BackingField: 350
+  <Acceleration>k__BackingField: 6
+  <StoppingDeceleration>k__BackingField: 3
+  <StopDelay>k__BackingField: 3
